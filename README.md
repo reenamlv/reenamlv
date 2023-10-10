@@ -1,4 +1,4 @@
-👋 Hi, I’m Reena Malviya, I am Data Scientist
+👋 Hi, I’m Reena Malviya
 👀 I’m interested in Computer Vision applications using Deep Learning and Ai
 🌱 I’m currently learning Ai, Deep Learning and Data Science
 💞️ I’m looking to collaborate on projects on Ai and Data Science
